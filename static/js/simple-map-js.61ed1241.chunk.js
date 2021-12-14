@@ -1,0 +1,2 @@
+(this["webpackJsonpsaman-li-dash"]=this["webpackJsonpsaman-li-dash"]||[]).push([[44],{76:function(t,a,s){"use strict";s.r(a);var c=s(87),e=s(141),n=s(118),o=s(89),i=s(1),l=[52.22977,21.01178];a.default=function(){return Object(i.jsx)(e.a,{center:l,zoom:18,scrollWheelZoom:!1,children:Object(i.jsx)(n.a,Object(c.a)({},o.a))})}},89:function(t,a,s){"use strict";s(92);a.a={url:"http://localhost:8080/data/v3/{z}/{x}/{y}.pbf"}}}]);
+//# sourceMappingURL=simple-map-js.61ed1241.chunk.js.map
